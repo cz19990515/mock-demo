@@ -1,0 +1,25 @@
+{
+  "name": "mock-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cz19990515/mock-demo.git"
+  },
+  "author": "chenzhang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cz19990515/mock-demo/issues"
+  },
+  "homepage": "https://github.com/cz19990515/mock-demo#readme",
+  "devDependencies": {
+    "koa-body": "^4.1.1",
+    "koa-logger": "^3.2.1",
+    "koa-router": "^7.4.0",
+    "koa2": "^2.0.0-alpha.7"
+  }
+}
